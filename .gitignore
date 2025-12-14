@@ -1,0 +1,50 @@
+# Node
+node_modules/
+
+# Build outputs
+dist/
+build/
+.astro/
+.out/
+
+# Vite
+/.vite
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Env files
+.env
+.env.local
+.env.*.local
+
+# IDEs
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Coverage
+coverage/
+
+# npm package manager lock files (leave if you want to track lock files)
+# package-lock.json
+# pnpm-lock.yaml
+
+# Netlify build cache
+.netlify/
+
+# Local build artifacts
+build/
+
+# Misc
+*.log
